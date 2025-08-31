@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder 
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
+          tags: ashrafbilalmohaidat/pushdockerimage:latest
