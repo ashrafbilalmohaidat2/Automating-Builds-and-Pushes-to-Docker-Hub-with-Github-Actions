@@ -110,14 +110,6 @@ App will be available at `http://localhost:3000`
 
 ---
 
-## Known Issues / Scan Findings
-
-| Severity | File           | Issue                                                                 |
-|----------|----------------|-----------------------------------------------------------------------|
-| Medium   | `package.json` | Unscoped npm package name (`docker_nodejs_demo`) — may be susceptible to dependency confusion attacks. Consider scoping it as `@<scope>/docker_nodejs_demo`. |
-
----
-
 ## Architecture Diagram
 
 ![Architecture](A.png)
