@@ -1,4 +1,3 @@
-=======
 # Automating Builds and Pushes to Docker Hub with GitHub Actions
 
 A CI/CD pipeline that automatically builds a Docker image from a Node.js app and pushes it to Docker Hub on every `git push` using GitHub Actions.
