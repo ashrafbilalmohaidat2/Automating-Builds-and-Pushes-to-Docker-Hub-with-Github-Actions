@@ -112,4 +112,4 @@ App will be available at `http://localhost:3000`
 
 ## Architecture Diagram
 
-![Architecture](A.png)
+![Architecture](workflowdiagram.png)
